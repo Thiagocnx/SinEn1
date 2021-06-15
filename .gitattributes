@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+AssetsModelsCh15_nonPRB.fbx filter=lfs diff=lfs merge=lfs -text
+AssetsModelsCh15_nonPRB@DrawingGun.fbx filter=lfs diff=lfs merge=lfs -text
+AssetsModelsCh15_nonPRB@Idle.fbx filter=lfs diff=lfs merge=lfs -text
+UnitySimulador filter=lfs diff=lfs merge=lfs -text
+de filter=lfs diff=lfs merge=lfs -text
+entrada filter=lfs diff=lfs merge=lfs -text
+v2SimEn1SinEnAssetsModelsCh15_nonPBR.fb filter=lfs diff=lfs merge=lfs -text
+E:Projetos filter=lfs diff=lfs merge=lfs -text
+AssetsModelsCh15_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
